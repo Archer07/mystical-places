@@ -1,0 +1,9 @@
+{
+  "name": "mystical-places",
+  "version": "1.0.0",
+  "description": "Discover the most beautiful places on planet Earth",
+  "main": "index.js",
+  "repository": "git@github.com:Archer07/personal-web-uni.git",
+  "author": "Ayoub Nejjari <raysoflee07@gmail.com>",
+  "license": "MIT"
+}
